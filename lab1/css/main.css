@@ -3,6 +3,7 @@
 body{
 	font-size: 62.5%;
 	font-family: helvetica, arial, sans-serif;
+    background-color: #F9F9B2;
 	color:#545257; /*changes color of the whole text*/
 	margin-top: 0;
 }
@@ -92,11 +93,15 @@ figure img{
     width: 500px;
     margin: 0 auto;
     padding-left: 40px;
-    padding-top: 50px;
+    padding-top: 20px;
 }
 
 #description p {
     margin-bottom: 0px;
+}
+
+#wrapper {
+    background-color: white;
 }
 
 /*-------------------------------------------  links -------------------------------------------------------*/
